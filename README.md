@@ -3,7 +3,7 @@
 
 👀 I’m interested in frontend development.
 
-🌱 I’m currently learning frameworks as
+🌱 Currently I’m learning frameworks as
  Angular, React and Vue.
   
 📫 How to reach me:
